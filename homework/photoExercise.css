@@ -1,0 +1,38 @@
+.coolcat {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 2em;
+    border-radius: 12px;
+}
+h2 {
+    margin: 2em;
+}
+p {
+    margin: 2em;
+}
+
+.animation {
+    width: 300px;
+    height: 300px;
+    margin: 2em;
+    border-radius: 12px;
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    
+}
+.aniword {
+    position: relative;
+    bottom: 250px;
+    left: 50px;
+    font-size: 20px;
+    color: white
+}
+.aniword {
+    opacity: 0%;
+}
+.aniword:hover {
+    opacity: 100%;
+    
+}

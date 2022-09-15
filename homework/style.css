@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+  box-sizing: border-box;
+  
+}
+
+.one {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+ 
+}
+
+.two {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+  
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+
+}
+/* 1st exercise */
+/* .two, .three, .four {
+  position: absolute;
+  left: 50px 
+}
+.two, .three, .four { 
+  position: absolute;
+  top: 50px 
+}*/
+
+/* 2nd exercise */
+/*.four {
+  position: absolute;
+  right: 0%;
+}*/
+
+/* 3rd exercise */
+/* .three { 
+  position: absolute;
+  right: 49.8%;
+}
+.three {
+  position: absolute;
+  top: 14.8%;
+}
+.four {
+  position: absolute;
+  right: 49.8%;
+}
+.four {
+  position: absolute;
+  top: 50%;
+}*/
+
+/* 4th exercise */
+/* 
+.four {
+  position: relative;
+  left: 50%
+}
+.four { 
+  position: relative;
+  top: 50%
+}
+.three {
+  position: relative;
+ right: 33.5%
+}
+.three { 
+  position: relative;
+  top: -33.4%
+}
+.two { 
+  position: absolute;
+  top: 7.4%
+}
+.two { 
+  position: absolute;
+  right: 795px
+}
+*/
+
+/* 5th exercise */
+/*
+.two { 
+  position: relative;
+  top: 262.8%
+}
+.two { 
+  position: relative;
+  left: 337.4%}
+  .three{ 
+    position: relative;
+    top: -66.5%
+  }
+  .four { 
+    position: relative;
+    left: -674.6%
+  }
+  .four { 
+    position: relative;
+    top: -426%
+  } */

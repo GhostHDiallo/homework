@@ -1,0 +1,14 @@
+a {
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    padding: 1em;
+    border-radius: 0.5em;
+    display: inline-block;
+}
+a:hover {
+    color: white;
+    background-color: royalblue;
+    transition: 0.8s;
+}
